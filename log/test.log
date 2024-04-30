@@ -1,0 +1,6 @@
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mBEGIN[0m
+----------------------------------
+UsersTest: test_visiting_the_index
+----------------------------------
+Started GET "/" for 127.0.0.1 at 2024-04-27 17:51:14 +0300
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
